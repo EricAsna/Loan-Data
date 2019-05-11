@@ -4,7 +4,7 @@
 
 For this study, I have chosen "loan data from prosper" dataset which is available on the Udacity server.
 The original loan dataset consists of 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. After conducting the wrangling process, 97671 loans were remained and 12 variables were selected for this study.
-The focus here is on two main features of any loan; loan amount and the interest rate as well as some other important features that can greatly affect the two main variables. Features explored in this study are:
+The focus here is on two main features of any loan; loan amount and the interest rate as well as some other important features that can greatly affect the two main variables. Insights created through the explanatory analysis using univariate, bivariate and multivariate visualizations. Features explored in this study are:
 
 __Main variables__
 1. Loan amount
