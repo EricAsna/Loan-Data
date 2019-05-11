@@ -10,7 +10,8 @@ __Main variables__
 1. Loan amount
 2. Interest rate (borrower rate)
 
-__Supportive variables__
+__Supporting variables__
+
 3. Income range
 4. Employment status
 5. Employment duration
