@@ -21,7 +21,7 @@ __Supportive variables__
 10. Listing category
 
 ## Source File
-Cleaned source file is provided in the Source filder.
+Cleaned source file is provided in the Source folder.
 
 ## Summary of Findings
 
