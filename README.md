@@ -23,7 +23,8 @@ __Supporting variables__
 
 ## Source File
 Cleaned source file is provided in "Source" folder.
-
+## Code
+Python codes are available in Code folder.
 ## Summary of Findings
 
 Summary of findings is provided in findings_summary.md
@@ -31,6 +32,9 @@ Summary of findings is provided in findings_summary.md
 ## Key Insights for Presentation
 
 Key insights are provided in the key_insights.md
+
+## Results
+Insights are presented visually in a presentation deck file. 
 
 
 
