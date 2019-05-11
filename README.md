@@ -22,15 +22,15 @@ __Supporting variables__
 10. Listing category
 
 ## Source File
-Cleaned source file is provided in the Source folder.
+Cleaned source file is provided in "Source" folder.
 
 ## Summary of Findings
 
-Summary of findings is provided in the findings_summary.md file.
+Summary of findings is provided in findings_summary.md
 
 ## Key Insights for Presentation
 
-Key insights are provided in the key_insights.md file.
+Key insights are provided in the key_insights.md
 
 
 
